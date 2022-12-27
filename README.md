@@ -4,5 +4,6 @@
 * Cycle through dataset of faces using any key press
 
 Live Demo: [https://composite-face-generator.netlify.app/](https://composite-face-generator.netlify.app/)
+
 [![composite-face-demo](https://user-images.githubusercontent.com/114364831/209729140-ae44dde7-abcb-4d7d-a0e1-136fd195bb79.jpg)](https://composite-face-generator.netlify.app/)
 
