@@ -1,2 +1,6 @@
 # Composite-Face-Generator
-📷⚡ Generate composite image of ML-generated dataset of faces and provide seamless transitions between original faces and the composite.
+* Merge data set of 30 faces into a composite image
+* Mouse movement from right to left triggers a seamless transition from the original image to the composite image
+* Cycle through dataset of faces using any key
+
+Live Demo: 
